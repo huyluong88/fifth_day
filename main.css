@@ -1,0 +1,46 @@
+nav{
+  background-color: #272a2b;
+  padding: 10px;
+  margin: -10px;
+}
+h2{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-family: cursive;
+}
+div{
+  display: block;
+
+}
+article {
+  background-color: lightgrey;
+  margin: 10px;
+  width: 50%;
+  border-radius: 26px;
+}
+body {
+  background-color: #377773;
+}
+h1{
+  text-align: center;
+}
+p{
+  margin: 10px;
+  padding: 10px;
+}
+.right{
+  float:right;
+}
+.left{
+  float:left;
+}
+h3{
+  padding: 10px;
+  margin: 8px;
+}
+#footer{
+  background-color: black;
+  color: white;
+  text-align: right;
+}
